@@ -1,6 +1,6 @@
-package com.chatroomserver.chatroonbackend.controller;
+package com.chatroomserver.chatroombackend.controller;
 
-import com.chatroomserver.chatroonbackend.model.Message;
+import com.chatroomserver.chatroombackend.model.Message;
 
 import lombok.AllArgsConstructor;
 import org.springframework.messaging.handler.annotation.MessageMapping;

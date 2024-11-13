@@ -1,4 +1,4 @@
-package com.chatroomserver.chatroonbackend.config;
+package com.chatroomserver.chatroombackend.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.messaging.simp.config.MessageBrokerRegistry;
